@@ -1,0 +1,12 @@
+.App {
+	text-align: center;
+	width: 100vw;
+	height: 100vw;
+	background-color: gray;
+	display: grid;
+	place-items: center;
+}
+
+.wrapper {
+	background-color: lightgray;
+}

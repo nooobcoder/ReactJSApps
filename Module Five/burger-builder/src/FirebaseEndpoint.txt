@@ -1,0 +1,22 @@
+https://burgerreact-73bff-default-rtdb.firebaseio.com/
+
+email account: su********@gmail.com
+admin: Ankur Paul
+
+REST API for SIGN UP, firebase
+https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
+
+REST API for SIGN IN, firebase
+https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[API_KEY]
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCynsTIBwi-UBgsjXbhJE57i-q7hc4Qj6U",
+  authDomain: "burgerreact-73bff.firebaseapp.com",
+  databaseURL: "https://burgerreact-73bff-default-rtdb.firebaseio.com",
+  projectId: "burgerreact-73bff",
+  storageBucket: "burgerreact-73bff.appspot.com",
+  messagingSenderId: "699093471188",
+  appId: "1:699093471188:web:307621b8b1c29259499041",
+  measurementId: "G-K5K3XN786R"
+};
